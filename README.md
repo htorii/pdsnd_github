@@ -2,10 +2,10 @@
  Updated on Nov 7
  
 ### Project Title
-Replace the Project Title
+Post your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+Use your local git repository and your GitHub repository. Fork a repository, work on files, stage file and commit them to GitHub. You will also demonstrate how to hide files using .gitignore file.
 
 ### Files used
 Include the files used
