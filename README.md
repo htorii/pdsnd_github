@@ -1,8 +1,11 @@
 ### Date created
- Updated on Nov 7
+ Updated on Nov 10
  
 ### Project Title
-Post your Work on GitHub
+* Udacity course
+    * Programming for Data Science Nanodegree Program
+* project
+    * Post your Work on GitHub
 
 ### Description
 Use your local git repository and your GitHub repository. Fork a repository, work on files, stage file and commit them to GitHub. You will also demonstrate how to hide files using .gitignore file.
